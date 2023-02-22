@@ -191,6 +191,6 @@ dmypy.json
 cython_debug/
 # ~END: Language: Python
 
-model_*/
-data_*/
+# model_*/
+# data_*/
 
